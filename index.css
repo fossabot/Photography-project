@@ -7,4 +7,8 @@
     border-color: black;
     padding: 0%;
 }
-
+body{
+    border-style: solid;
+    border-color: lightgreen;
+    padding: 10px;
+}

@@ -1,3 +1,10 @@
 *{
     background-color: plum;
+}h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    border-style: solid;
+    border-color: black;
+    padding: 0%;
 }
+

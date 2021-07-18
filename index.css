@@ -12,3 +12,9 @@ body{
     border-color: lightgreen;
     padding: 10px;
 }
+.back{
+    width: 350px;
+    height: 200px;
+    border-style: solid;
+    border-color: lightseagreen;
+}
